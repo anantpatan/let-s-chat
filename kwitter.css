@@ -19,7 +19,7 @@ h3{
 }
 .header img
 {
-	width: 80px;margin-left: -15px;
+	width: 400px;margin-left: -15px;
 }
 
 .login_div
@@ -52,7 +52,9 @@ h3{
 
 #output
 {
-	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+	padding: 10px; width:80%;background: rgba(172, 252, 241, 0.8);border-radius: 15px;
+	border-top: crimson; border-width: 3px;
+	border-style: solid;
 }
 
 .input_div_room_page
